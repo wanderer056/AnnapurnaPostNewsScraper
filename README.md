@@ -1,4 +1,5 @@
-##Simple News Scraper from the Annapurna Post
+## Simple News Scraper from the Annapurna Post
+
 At first the search term is converted to nepali. And request is sent to the Annapurn Post API which returns the search result in json file.
 It uses Annapurn Post API for scraping.
 The search result in json format is stored in news1.json. Multiple pages to scrape can be set on the annapurna_searchresults.py script given by the pagesToScrape.
